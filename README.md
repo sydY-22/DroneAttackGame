@@ -33,3 +33,6 @@ The jumping movement is enabled by pressing the space bar.
 - If the player successfully eliminates all the drones before the time runs out.
 # Enemy AI
 The drones all have thier individual patrol points. They have different patrolling paths. Can be aggro when player gets too close or starts shooting.
+
+# DevLog:
+[DevLog Doc](https://docs.google.com/document/d/13kHtDW3JpqM30btkvsuDmZV94Z_lFjCVKeO1Twa4A64/edit?usp=sharing)
